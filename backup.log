@@ -4,3 +4,7 @@ remote: Counting objects: 100% (5/5), done.
 remote: Compressing objects: 100% (3/3), done.
 remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (5/5), 4.56 KiB | 4.56 MiB/s, done.
+git cheFrom github.com:SCM-Github-Test/Backup01
+ * [new branch]      dev01      -> origin/dev01
+ * [new branch]      dev02      -> origin/dev02
+cAlready up to date.
